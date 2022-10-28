@@ -17,5 +17,5 @@ List func(List fruits, String a, int b) {
 }
 
 void main() {
-  print(func(["apple", "banana"], 'kivi', 1));
+  print(func(["apple", "banana"], 'nok', 1));
 }
