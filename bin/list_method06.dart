@@ -23,5 +23,5 @@ int func(
 }
 
 void main() {
-  print(func(['ananas', 'bana', 'bana', 'gilos']));
+  print(func(['ananas', 'bana', 'bana', 'gilos','bana', 'bana']));
 }
