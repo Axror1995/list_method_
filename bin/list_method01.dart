@@ -5,5 +5,5 @@ List func(List list1, String a) {
 }
 
 void main() {
-  print(func(['olma', 'anor', 'nok'], 'banan'));
+  print(func(['olma', 'anor', 'nok'], 'shaftoli'));
 }
