@@ -14,5 +14,5 @@ List func(List fruits1, List fruits2) {
 }
 
 void main() {
-  print(func(['ananas', 'banan'], ['qovun', 'G`ayrat']));
+  print(func(['ananas', 'banan'], ['Atxam', 'G`ayrat']));
 }
