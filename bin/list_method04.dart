@@ -7,5 +7,10 @@
     Returns:
         list: return answer
 */
+int func(List numbers, int index) {
+  return numbers[index];
+}
 
-void main() {}
+void main() {
+  print(func([3, 2, 1, 5, 6], 2));
+}
